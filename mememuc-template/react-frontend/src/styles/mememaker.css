@@ -1,0 +1,70 @@
+.row {
+    width: 50%;
+    display: inline;
+    margin: 5px;
+}
+
+canvas {
+    margin-top: 10px;
+    width: 90%;
+    display: inline;
+}
+
+.thumbnail {
+    width: 100%;
+    display: inline;
+    margin: 5px;
+}
+
+.template-area {
+    overflow-x: auto;
+    overflow-y: hidden;
+    height: 180px;
+    white-space: nowrap;
+    width: 80%;
+    margin: 10px auto;  /*set div center*/
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    display: flex;
+}
+
+Button {
+    margin: 5px;
+}
+
+.done {
+    width: 100%;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    margin: 2px;
+}
+
+.parent-div {
+    width: 80%;
+    margin: 10px auto;
+}
+
+.left-div {
+    width: 50%;
+    float:left;
+}
+
+.right-div {
+    text-align: left;
+    width: 50%;
+    float:right;
+}
+
+.center-p {
+    text-align: center;
+    font-weight: bold;
+}
+
+.upload-url {
+    width: 100%;
+}

@@ -1,0 +1,27 @@
+.img {
+    width: 40%;
+    margin: 20px;
+}
+
+h4 {
+    margin-top: 40px;
+}
+
+.comment_block {
+    width: 80%;
+    margin: 10px auto;  /*set div center*/
+}
+
+.comment {
+    width: 100%;
+    margin: 10px auto;  /*set div center*/
+    border-color: lightgray;
+    border-style: solid;
+    border-width: 1px;
+    text-align: left;
+}
+
+.btn_comment {
+    display: flex;
+    float: right;
+}
